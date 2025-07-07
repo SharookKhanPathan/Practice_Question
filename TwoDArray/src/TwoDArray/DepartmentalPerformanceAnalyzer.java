@@ -65,7 +65,7 @@ public class DepartmentalPerformanceAnalyzer {
 				}
 				System.out.println("--------------------");	
 			}
-			int passPercentage = (passCount/s) * 100;
+			float passPercentage = (passCount/s) * 100;
 			System.out.println("--------------------");
 			System.out.println("Department Details");
 			System.out.println("Total Average: "+totavg/s);
