@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="TwoDArray/" kind="src" path="TwoDArray/src"/>
+	<classpathentry kind="src" path="TwoDArray/src/TwoDArray"/>
+	<classpathentry kind="output" path="TwoDArray/bin"/>
+</classpath>
