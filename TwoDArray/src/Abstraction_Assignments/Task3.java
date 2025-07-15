@@ -25,6 +25,7 @@ public class Task3 {
 		for(Employee i : e) {
 			i.calculateSalary();
 			System.out.println();
+			//kjvdjbfdufsjcbkjsab
 		}
 	}
 
