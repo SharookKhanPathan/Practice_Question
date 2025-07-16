@@ -20,7 +20,7 @@ class Student{
 public class Task4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Student s1 = new Student("Sharook",21,7.8);
 		Student s2 = new Student("Sharook",7.8);
 		s1.displayGPA();
