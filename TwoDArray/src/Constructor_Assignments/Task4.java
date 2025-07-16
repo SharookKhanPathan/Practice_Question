@@ -10,7 +10,7 @@ class Student{
 	}
 	Student(String name,double GPA){
 		this.name = name;
-		//this.age = age;
+		
 		this.GPA = 0.0;
 	}
 	void displayGPA() {
